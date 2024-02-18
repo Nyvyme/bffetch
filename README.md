@@ -14,6 +14,8 @@ Check out [Wiki](https://github.com/dylanaraps/neofetch/wiki) for more informati
 
 Also check out [original README](https://github.com/dylanaraps/neofetch/blob/master/README.md)
 
+Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.github.io/Image-to-Braille/)
+
 ## Updated Logos
 * [x] AIX
 * [x] Alpine
