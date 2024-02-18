@@ -18,6 +18,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [x] AIX
 * [x] Alpine
 * [x] AlmaLinux
+* [x] Alter Linux
 * [ ] Anarchy
 * [ ] Android
 * [ ] Antergos
