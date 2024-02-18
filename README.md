@@ -89,6 +89,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [x] Hash Linux
 * [ ] Huayra
 * [ ] Hyperbola
+* [x] instantOS
 * [ ] janus
 * [ ] Kali
 * [ ] KaOS
