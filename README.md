@@ -102,6 +102,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [ ] LEDE
 * [ ] LFS
 * [ ] Linux Lite
+* [x] Linux
 * [ ] LMDE
 * [ ] Lubuntu
 * [ ] Lunar
