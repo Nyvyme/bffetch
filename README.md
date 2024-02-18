@@ -189,7 +189,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [ ] Ubuntu Studio
 * [x] Ubuntu
 * [ ] Venom
-* [ ] Void
+* [x] Void Linux
 * [ ] Obarun
 * [ ] Windows 11
 * [ ] Windows 10
