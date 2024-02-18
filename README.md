@@ -4,15 +4,15 @@
 __BFFetch__ is a fork of [Neofetch](https://github.com/dylanaraps/neofetch) where ASCII art is replaced with braille art.
 
 __Installation__:
-1. Install (dependencies)[https://github.com/dylanaraps/neofetch/wiki/Dependencies]
+1. Install [dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)
 2. Clone repository
 3. Run `make install` to install __BFFetch__
 
 To uninstall run `make uninstall`
 
-Check out (Wiki)[https://github.com/dylanaraps/neofetch/wiki] for more information.
+Check out [Wiki](https://github.com/dylanaraps/neofetch/wiki) for more information.
 
-Also check out (original README)[https://github.com/dylanaraps/neofetch/blob/master/README.md]
+Also check out [original README](https://github.com/dylanaraps/neofetch/blob/master/README.md)
 
 ## Updated Logos
 * [x] AIX
