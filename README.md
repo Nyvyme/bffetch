@@ -75,7 +75,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [ ] Funtoo
 * [ ] GalliumOS
 * [ ] Garuda
-* [ ] Gentoo
+* [x] Gentoo
 * [ ] Pentoo
 * [ ] gNewSense
 * [ ] GNOME
