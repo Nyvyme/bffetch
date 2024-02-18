@@ -20,7 +20,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [x] AlmaLinux
 * [x] Alter Linux
 * [x] Amazon Linux
-* [ ] Anarchy
+* [x] Anarchy
 * [ ] Android
 * [ ] Antergos
 * [ ] antiX
