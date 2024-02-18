@@ -21,7 +21,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [x] Alter Linux
 * [x] Amazon Linux
 * [x] Anarchy
-* [ ] Android
+* [x] Android
 * [ ] Antergos
 * [ ] antiX
 * [ ] AOSC OS
