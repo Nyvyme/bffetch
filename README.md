@@ -56,7 +56,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [ ] Container Linux
 * [ ] CRUX
 * [ ] Cucumber
-* [ ] Debian
+* [x] Debian
 * [ ] Deepin
 * [ ] DesaOS
 * [ ] Devuan
