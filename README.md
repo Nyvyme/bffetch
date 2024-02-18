@@ -114,7 +114,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [ ] Maui
 * [ ] Mer
 * [ ] Minix
-* [ ] Linux Mint
+* [x] Linux Mint
 * [ ] MX Linux
 * [ ] Namib
 * [ ] Neptune

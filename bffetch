@@ -8668,60 +8668,53 @@ EOF
         "linuxmint_small"*)
             set_colors 2 7
             read -rd '' ascii_data <<'EOF'
-${c1} ___________
-|_          \\
-  | ${c2}| _____ ${c1}|
-  | ${c2}| | | | ${c1}|
-  | ${c2}| | | | ${c1}|
-  | ${c2}\\__${c2}___/ ${c1}|
-  \\_________/
+${c1}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣄
+⠛⠛⣿⡇ ⣿⣿⡿⠛⠛⠿⠛⠛⠿⣿⣆
+  ⣿⡇ ⣿⡏ ⣴⣦ ⢰⣶ ⢸⣿
+  ⣿⡇ ⣿⡇ ⣿⣿ ⢸⣿ ⢸⣿
+  ⢿⡇ ⢿⣷⣶⣿⣿⣶⣾⣿ ⢸⣿
+  ⠸⣿⣄⠈⠉⠉⠉⠉⠉⠉⠁⣠⣾⣿
+   ⠈⠻⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿
 EOF
         ;;
 
         "Linux Mint Old"* | "LinuxMintOld"* | "mint_old"*)
             set_colors 2 7
             read -rd '' ascii_data <<'EOF'
-${c1}MMMMMMMMMMMMMMMMMMMMMMMMMmds+.
-MMm----::-://////////////oymNMd+`
-MMd      ${c2}/++                ${c1}-sNMd:
-MMNso/`  ${c2}dMM    `.::-. .-::.` ${c1}.hMN:
-ddddMMh  ${c2}dMM   :hNMNMNhNMNMNh: ${c1}`NMm
-    NMm  ${c2}dMM  .NMN/-+MMM+-/NMN` ${c1}dMM
-    NMm  ${c2}dMM  -MMm  `MMM   dMM. ${c1}dMM
-    NMm  ${c2}dMM  -MMm  `MMM   dMM. ${c1}dMM
-    NMm  ${c2}dMM  .mmd  `mmm   yMM. ${c1}dMM
-    NMm  ${c2}dMM`  ..`   ...   ydm. ${c1}dMM
-    hMM- ${c2}+MMd/-------...-:sdds  ${c1}dMM
-    -NMm- ${c2}:hNMNNNmdddddddddy/`  ${c1}dMM
-     -dMNs-${c2}``-::::-------.``    ${c1}dMM
-      `/dMNmy+/:-------------:/yMMM
-         ./ydNMMMMMMMMMMMMMMMMMMMMM
-            .MMMMMMMMMMMMMMMMMMM
+${c1}⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⣄⡀
+⣿⣿⣿⣿⣿⣿⣿⡿⠿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣄
+⠿⠿⠿⣿⣿⣿⣿⡇  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦
+    ⢻⣿⣿⡇  ⣿⣿⣿⣿⡿⠋⠁  ⠈⠙⠟⠉   ⠉⠻⣿⣿⣿⣇
+    ⢸⣿⣿⡇  ⣿⣿⣿⡏  ⢀⣤⣤⡀   ⣠⣤⣀  ⠘⣿⣿⣿
+    ⢸⣿⣿⡇  ⣿⣿⣿⡇  ⣾⣿⣿⡇  ⢸⣿⣿⣿   ⣿⣿⣿
+    ⢸⣿⣿⡇  ⣿⣿⣿⡇  ⣿⣿⣿⡇  ⢸⣿⣿⣿   ⣿⣿⣿
+    ⢸⣿⣿⡇  ⣿⣿⣿⡇  ⣿⣿⣿⡇  ⢸⣿⣿⣿   ⣿⣿⣿
+    ⢸⣿⣿⡇  ⣿⣿⣿⣇⣀⣀⣿⣿⣿⣇⣀⣀⣸⣿⣿⣿   ⣿⣿⣿
+    ⢸⣿⣿⡇  ⢹⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿   ⣿⣿⣿
+    ⠘⣿⣿⣷⡀  ⠙⠻⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠟⠋⠁  ⣰⣿⣿⣿
+     ⠘⣿⣿⣿⣦⣀              ⢀⣠⣾⣿⣿⣿⣿
+      ⠈⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+         ⠙⠛⠿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠃
 EOF
         ;;
 
         "Linux Mint"* | "LinuxMint"* | "mint"*)
             set_colors 2 7
             read -rd '' ascii_data <<'EOF'
-${c2}             ...-:::::-...
-${c2}          .-MMMMMMMMMMMMMMM-.
-      .-MMMM${c1}`..-:::::::-..`${c2}MMMM-.
-    .:MMMM${c1}.:MMMMMMMMMMMMMMM:.${c2}MMMM:.
-   -MMM${c1}-M---MMMMMMMMMMMMMMMMMMM.${c2}MMM-
- `:MMM${c1}:MM`  :MMMM:....::-...-MMMM:${c2}MMM:`
- :MMM${c1}:MMM`  :MM:`  ``    ``  `:MMM:${c2}MMM:
-.MMM${c1}.MMMM`  :MM.  -MM.  .MM-  `MMMM.${c2}MMM.
-:MMM${c1}:MMMM`  :MM.  -MM-  .MM:  `MMMM-${c2}MMM:
-:MMM${c1}:MMMM`  :MM.  -MM-  .MM:  `MMMM:${c2}MMM:
-:MMM${c1}:MMMM`  :MM.  -MM-  .MM:  `MMMM-${c2}MMM:
-.MMM${c1}.MMMM`  :MM:--:MM:--:MM:  `MMMM.${c2}MMM.
- :MMM${c1}:MMM-  `-MMMMMMMMMMMM-`  -MMM-${c2}MMM:
-  :MMM${c1}:MMM:`                `:MMM:${c2}MMM:
-   .MMM${c1}.MMMM:--------------:MMMM.${c2}MMM.
-     '-MMMM${c1}.-MMMMMMMMMMMMMMM-.${c2}MMMM-'
-       '.-MMMM${c1}``--:::::--``${c2}MMMM-.'
-${c2}            '-MMMMMMMMMMMMM-'
-${c2}               ``-:::::-``
+${c1}        ⢀⣠⣤⣶⣶⣶⣶⣶⣶⣤⣄⡀
+     ⣀⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣦⣀
+   ⢠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡄
+  ⣰⣿⣿⡇ ⢸⣿⣿⣿⣿⠿⠟⠻⠿⣿⠿⠛⠻⠿⣿⣿⣿⣿⣆
+ ⣰⣿⣿⣿⡇ ⢸⣿⣿⡟⠁ ⢀⡀   ⢀⡀ ⠈⢻⣿⣿⣿⣆
+⢠⣿⣿⣿⣿⡇ ⢸⣿⣿⡇ ⢰⣿⣿⡆ ⢠⣿⣿⡆ ⠘⣿⣿⣿⣿⡄
+⢸⣿⣿⣿⣿⡇ ⢸⣿⣿⡇ ⢸⣿⣿⡇ ⢸⣿⣿⡇  ⣿⣿⣿⣿⡇
+⢸⣿⣿⣿⣿⡇ ⢸⣿⣿⡇ ⢸⣿⣿⡇ ⢸⣿⣿⡇  ⣿⣿⣿⣿⡇
+⠘⣿⣿⣿⣿⡇ ⠸⣿⣿⣧⣤⣼⣿⣿⣧⣤⣼⣿⣿⠇ ⢀⣿⣿⣿⣿⠃
+ ⠹⣿⣿⣿⣧  ⠙⠿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠋  ⣼⣿⣿⣿⡏
+  ⠹⣿⣿⣿⣷⣄⡀          ⢀⣠⣾⣿⣿⣿⠏
+   ⠘⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠃
+     ⠉⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠉
+        ⠈⠙⠛⠿⠿⠿⠿⠿⠿⠛⠋⠉
 EOF
         ;;
 
