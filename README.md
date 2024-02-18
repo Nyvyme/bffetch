@@ -5,7 +5,7 @@ __BFFetch__ is a fork of [Neofetch](https://github.com/dylanaraps/neofetch) wher
 
 __Installation__:
 1. Install [dependencies](https://github.com/dylanaraps/neofetch/wiki/Dependencies)
-2. Clone repository
+2. Clone repository with `git clone https://github.com/Nyvyme/bffetch`
 3. Run `make install` to install __BFFetch__
 
 To uninstall run `make uninstall`
