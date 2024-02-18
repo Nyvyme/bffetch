@@ -187,7 +187,7 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 * [ ] Ubuntu GNOME
 * [ ] Ubuntu MATE
 * [ ] Ubuntu Studio
-* [ ] Ubuntu
+* [x] Ubuntu
 * [ ] Venom
 * [ ] Void
 * [ ] Obarun
