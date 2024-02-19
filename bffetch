@@ -5989,27 +5989,24 @@ EOF
         ;;
 
         "ArchBox"*)
-            set_colors 2 7 1
+            set_colors 2
             read -rd '' ascii_data <<'EOF'
-${c1}              ...:+oh/:::..
-         ..-/oshhhhhh`   `::::-.
-     .:/ohhhhhhhhhhhh`        `-::::.
- .+shhhhhhhhhhhhhhhhh`             `.::-.
- /`-:+shhhhhhhhhhhhhh`            .-/+shh
- /      .:/ohhhhhhhhh`       .:/ohhhhhhhh
- /           `-:+shhh`  ..:+shhhhhhhhhhhh
- /                 .:ohhhhhhhhhhhhhhhhhhh
- /                  `hhhhhhhhhhhhhhhhhhhh
- /                  `hhhhhhhhhhhhhhhhhhhh
- /                  `hhhhhhhhhhhhhhhhhhhh
- /                  `hhhhhhhhhhhhhhhhhhhh
- /      .+o+        `hhhhhhhhhhhhhhhhhhhh
- /     -hhhhh       `hhhhhhhhhhhhhhhhhhhh
- /     ohhhhho      `hhhhhhhhhhhhhhhhhhhh
- /:::+`hhhhoos`     `hhhhhhhhhhhhhhhhhs+`
-    `--/:`   /:     `hhhhhhhhhhhho/-
-             -/:.   `hhhhhhs+:-`
-                ::::/ho/-`
+${c1}            ⢀⣠⣴⣾⠑⠢⢄⡀
+        ⢀⣠⣴⣾⣿⣿⣿⣿   ⠈⠑⠢⢄⡀
+    ⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿       ⠈⠉⠒⠤⣀
+⣀⣤⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿            ⠉⠒⠤⣀
+⡏⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿            ⣀⣤⣶⣿
+⡇   ⠉⠛⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿       ⢀⣀⣤⣶⣿⣿⣿⣿⣿
+⡇       ⠈⠙⠻⢿⣿⣿⣿⣿   ⢀⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⡇           ⠈⠙⠻⢿⣠⣴⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⡇               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⡇               ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⡇     ⣰⣿⣿⣆      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣇    ⢠⣿⣿⣿⣿      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠉⠒⠤⣀ ⢸⣿⣿⣿⣿⡆     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉
+    ⠉⠚⠿⣿⣿⣿⡇     ⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠛⠉
+        ⠈⠙⠣⢄⡀   ⣿⣿⣿⣿⡿⠟⠋⠁
+            ⠈⠑⠢⢄⡿⠟⠋⠁
 EOF
         ;;
 
