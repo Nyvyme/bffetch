@@ -193,9 +193,9 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Venom
 * [x] Void Linux
 * [ ] Obarun
-* [ ] Windows 11
-* [ ] Windows 10
-* [ ] Windows 7
+* [x] Windows 11
+* [x] Windows 10
+* [x] Windows 7
 * [ ] Xubuntu
 * [ ] Zorin
 * [ ] IRIX
