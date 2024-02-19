@@ -93,9 +93,9 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Hyperbola
 * [x] instantOS
 * [ ] janus
-* [ ] Kali
+* [x] Kali
 * [ ] KaOS
-* [ ] KDE Neon
+* [x] KDE Neon
 * [ ] Kibojoe
 * [ ] Kogaion
 * [ ] Korora
