@@ -73,7 +73,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Exherbo
 * [ ] Fedora
 * [ ] Feren
-* [ ] FreeBSD
+* [x] FreeBSD/HardenedBSD
 * [ ] FreeMiNT
 * [ ] Frugalware
 * [ ] Funtoo
