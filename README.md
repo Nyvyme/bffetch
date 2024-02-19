@@ -30,7 +30,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] AOSC OS/Retro
 * [ ] Apricity
 * [ ] ArcoLinux
-* [ ] Arch
+* [x] Arch
 * [ ] Artix
 * [ ] ArchBox
 * [ ] Arya
