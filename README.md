@@ -83,7 +83,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Pentoo
 * [ ] gNewSense
 * [x] GNOME
-* [ ] GNU
+* [x] GNU
 * [ ] GoboLinux
 * [ ] Grombyang
 * [ ] Guix
