@@ -170,7 +170,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] SereneLinux
 * [ ] SharkLinux
 * [ ] Siduction
-* [ ] Slackware
+* [x] Slackware
 * [ ] SliTaz
 * [ ] SmartOS
 * [ ] Solus
