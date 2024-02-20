@@ -34,7 +34,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Artix
 * [x] ArchBox
 * [ ] Arya
-* [ ] Bedrock
+* [x] Bedrock
 * [ ] Bitrig
 * [ ] BlackArch
 * [ ] BLAG
