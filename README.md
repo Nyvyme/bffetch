@@ -155,7 +155,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Radix
 * [ ] Raspbian
 * [ ] Reborn OS
-* [ ] Redstar
+* [x] Redstar
 * [ ] Redcore
 * [ ] RedHat Enterprise Linux
 * [ ] Refracted Devuan
