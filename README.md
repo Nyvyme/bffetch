@@ -31,7 +31,7 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Apricity
 * [ ] ArcoLinux
 * [x] Arch
-* [ ] Artix
+* [x] Artix
 * [x] ArchBox
 * [ ] Arya
 * [x] Bedrock
