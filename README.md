@@ -100,13 +100,13 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] Kogaion
 * [ ] Korora
 * [ ] KSLinux
-* [ ] Kubuntu
+* [x] Kubuntu
 * [ ] LEDE
 * [ ] LFS
 * [ ] Linux Lite
 * [x] Linux
 * [ ] LMDE
-* [ ] Lubuntu
+* [x] Lubuntu
 * [ ] Lunar
 * [ ] macOS
 * [ ] Mageia
@@ -185,10 +185,10 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [ ] SwagArch
 * [ ] Tails
 * [ ] Trisquel
-* [ ] Ubuntu Budgie
-* [ ] Ubuntu GNOME
-* [ ] Ubuntu MATE
-* [ ] Ubuntu Studio
+* [x] Ubuntu Budgie
+* [x] Ubuntu GNOME
+* [x] Ubuntu MATE
+* [x] Ubuntu Studio
 * [x] Ubuntu
 * [ ] Venom
 * [x] Void Linux
@@ -196,6 +196,6 @@ Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.g
 * [x] Windows 11
 * [x] Windows 10
 * [x] Windows 7
-* [ ] Xubuntu
+* [x] Xubuntu
 * [ ] Zorin
 * [x] IRIX
