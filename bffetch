@@ -6138,7 +6138,7 @@ EOF
         ;;
 
         "artix_small"*)
-            set_colors 6 6 7 1
+            set_colors 4 7
             read -rd '' ascii_data <<'EOF'
 ${c1}       ⣰⣆       
       ⣰⣿⣿⣆      
@@ -6152,7 +6152,7 @@ EOF
         ;;
 
         "Artix"*)
-            set_colors 6 6 7 1
+            set_colors 4 7
             read -rd '' ascii_data <<'EOF'
 ${c1}                 ⣰⣆                 
                 ⣰⣿⣿⣆                
