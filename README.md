@@ -16,6 +16,11 @@ Also check out [original README](https://github.com/dylanaraps/neofetch/blob/mas
 
 Some arts were generated here: [Image to Braille by 505e06b2](https://505e06b2.github.io/Image-to-Braille/)
 
+## Showcase
+<h3 align="center"><img src="https://i.imgur.com/YncGjF2.png" alt="arch" height="275px"></h3>
+<h3 align="center"><img src="https://i.imgur.com/cF9OCHQ.png" alt="gentoo" height="275px"></h3>
+<h3 align="center"><img src="https://i.imgur.com/axTOBvw.png" alt="ubuntu" height="275px"></h3>
+
 ## Updated Logos
 * [x] AIX
 * [x] Alpine
